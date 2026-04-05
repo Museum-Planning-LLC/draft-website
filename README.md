@@ -1,5 +1,4 @@
 # museumplanning.com
-- https://museum-planning-llc.github.io/draft-website.html
 
 Draft Website - https://museumplanning.github.io/draft-website/
 
