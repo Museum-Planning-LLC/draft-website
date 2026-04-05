@@ -1,6 +1,6 @@
 # museumplanning.com
 
-Draft Website - https://museumplanning.github.io/draft-website/
+https://museum-planning-llc.github.io/draft-website/
 
 Static HTML website for Museum Planning LLC.
 
